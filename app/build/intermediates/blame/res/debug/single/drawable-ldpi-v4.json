@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/vijay/Downloads/TestDemoCode/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_system_update.png",
+        "source": "/Users/vijay/Downloads/TestDemoCode/app/build/generated/res/pngs/debug/drawable-ldpi/ic_system_update.png"
+    },
+    {
+        "merged": "/Users/vijay/Downloads/TestDemoCode/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/Users/vijay/Downloads/TestDemoCode/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    }
+]

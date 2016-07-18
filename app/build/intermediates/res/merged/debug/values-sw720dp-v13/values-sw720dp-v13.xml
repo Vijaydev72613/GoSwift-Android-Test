@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="label_help_info_text_size">15dp</dimen>
+    <dimen name="label_text_size">20dp</dimen>
+    <string name="screen_type">10-inch-tablet</string>
+</resources>

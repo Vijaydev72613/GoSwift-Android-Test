@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/arunkt/Work/TestDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="50881b3776264543f451f56bb9637a50d16e65d1">
+        <dex dex="/Users/arunkt/Work/TestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7e6b792bcc52e62785a1c2284ca54827dd5b6353/classes.dex" />
+    </item>
+
+</items>

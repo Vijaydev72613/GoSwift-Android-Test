@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TEST</string>
+    <string name="networkerror">Network Issue!</string>
+    <string name="invaliduser">Opps! Invalid User</string>
+    <string name="dataerror">Opps! Try again..</string>
+    <string name="failuer">Opps! Try again</string>
+
+</resources>

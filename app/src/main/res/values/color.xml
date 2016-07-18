@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="White">#FFFFFF</color>
+    <color name="Black">#ff000000</color>
+    <color name="Blue">#FF66A9DD</color>
+    <color name="Red">#ffFF0000</color>
+    <color name="Gray">#736F6E</color>
+    <color name="Violate">#FF7800D2</color>
+    <color name="Green">#FF00FF00</color>
+    <color name="Email">#00FFFF</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- FIT Chart-->
+    <color name="default_back_color">@android:color/transparent</color>
+    <color name="default_back_stroke_color">#f0f0f0</color>
+    <color name="default_chart_value_color">#ff3d00</color>
+
+    <!-- Mobile Number register-->
+    <color name="mobile_number_register_screeb_bg">#689f38</color>
+
+    <!-- Label color-->
+    <color name="inner_body_grey_bg">#eeeeee</color>
+    <color name="card_color">#ffffff</color>
+    <color name="label_color">#777777</color>
+    <color name="label_help_info_color">#999999</color>
+    <color name="hint_color">#cccccc</color>
+    <color name="next_button_color">#2ebd59</color>
+    <color name="edittext_bottom_line_color">#cccccc</color>
+    <color name="app_progress_text_color">#424242</color>
+    <color name="apps_list_header_color">#424242</color>
+    <color name="work_exp_label">#1fbad8</color>
+    <color name="list_divider_background">#EEEEEE</color>
+
+    <!-- login page-->
+    <color name="login_screen_background">#FF2B394E</color>
+    <color name="login_hint">#FF9B9B9B</color>
+    <color name="login_user_pass_divider">#1A4A90E2</color>
+    <!-- FF4A90E2-->
+    <color name="forget_password">#FF4A90E2</color>
+    <color name="login_button">#FF1EB1EE</color>
+    <color name="login_register">#F5900F</color>
+
+    <!-- register page -->
+    <color name="register_divider">#1A4A90E2</color>
+    <color name="register_button_color">#FF1EB1EE</color>
+
+    <!-- DSA FORM -->
+    <color name="ColorPrimary">#FF00BBD3</color>
+    <color name="ColorPrimaryDark">#00A2BD</color>
+
+    <color name="sliding_tab_background">#FF00BBD3</color>
+    <color name="form_header_divider">#39C6C7</color>
+    <color name="resend_otp">#FFFFFF8C</color>
+
+
+    <color name="approved">#4CAF50</color>
+    <color name="progress">#FF9800</color>
+    <color name="reject">#F44336</color>
+
+
+    <!--spinner -->
+
+    <color name="disabled_color">#44000000</color>
+    <color name="error_color">#E7492E</color>
+
+
+</resources>
